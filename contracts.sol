@@ -102,10 +102,10 @@ contract ERC20Token is StandardToken {
     string public version = 'H1.0';       //human 0.1 standard. Just an arbitrary versioning scheme.
 
 //
-// CHANGE THE FOLLOWING VALUES FOR YOUR TOKEN!
+//
 //
 
-//make sure this function name matches the contract name above. So if you're token is called TutorialToken, make sure the //contract name above is also TutorialToken instead of ERC20Token
+//make sure this function name matches the contract name above. So if you're token is called TutorialToken, make sure the //contract name above is also TutorialToken instead of ERC20Toke
 
     function ERC20Token(
         ) {
